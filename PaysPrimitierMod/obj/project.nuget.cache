@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Xmh55GynOOQyUPM2IisDLgkl1wAJrzbXPwR5+rh8mafmNtRpgS7srJmYKdrTwo4R+zOC0eZ4akP+9lDWBQJG3Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\camer\\Documents\\GitHub\\PaysMod\\PaysPrimitierMod\\PaysPrimitierMod.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\camer\\.nuget\\packages\\system.drawing.common\\9.0.1\\system.drawing.common.9.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
